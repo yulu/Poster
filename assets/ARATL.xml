@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="arvk" size="600.000000 693.854736" />
+    <ImageTarget name="assembly" size="600.000000 780.487793" />
+    <ImageTarget name="wearable" size="300.000000 649.166687" />
+    <ImageTarget name="robot" size="300.000000 362.290497" />
+    <ImageTarget name="piano" size="600.000000 610.555542" />
+    <ImageTarget name="layout" size="300.000000 507.182312" />
+  </Tracking>
+</QCARConfig>
